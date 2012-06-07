@@ -1,0 +1,3 @@
+this is foo2
+fix1
+fix2
